@@ -1,16 +1,57 @@
-## Hi there 👋
+# Pan Phyu Sin  
+### Python Developer | Django Enthusiast | Data Analytics Learner  
 
-<!--
-**PanPhyuSin27/PanPhyuSin27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning → Building → Improving
 
-Here are some ideas to get you started:
+Yangon, Myanmar •  
+GitHub: https://github.com/PanPhyuSin27  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+Motivated and detail-oriented developer with a strong interest in Python programming, Django web development, and data analytics.  
+Passionate about solving real-world problems through code and continuously improving technical skills through hands-on projects.
+
+Currently seeking internship opportunities to apply my knowledge in a practical environment and gain industry experience.
+
+---
+
+## Technical Skills
+
+### Programming
+Python • SQL • JavaScript  
+
+### Web Development
+Django • Django REST Framework  
+
+### Data Analytics
+Pandas • NumPy • Matplotlib  
+Data Cleaning • Data Visualization • Basic Statistical Analysis  
+
+### Databases
+PostgreSQL • MySQL • SQLite  
+
+### Tools
+Git • GitHub • VS Code • PyCharm • Jupyter Notebook  
+
+---
+
+## What I’m Currently Learning
+
+- Advanced Django concepts  
+- REST API design  
+- Data analysis techniques  
+- Machine learning fundamentals  
+- Writing clean, maintainable code  
+
+---
+
+## Strengths
+
+- Strong problem-solving mindset  
+- Quick learner and adaptable  
+- Attention to detail  
+- Collaborative and team-oriented  
+
+---
