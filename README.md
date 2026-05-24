@@ -3,8 +3,14 @@
 
 Learning → Building → Improving
 
+🌐 Portfolio: https://panphyusin.vercel.app
+
+💻 GitHub: https://github.com/PanPhyuSin27
+
+University of Computer Studies, Yangon
+
 Yangon, Myanmar •  
-GitHub: https://github.com/PanPhyuSin27  
+  
 
 ---
 
