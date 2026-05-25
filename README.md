@@ -3,13 +3,30 @@
 
 Learning → Building → Improving
 
-🌐 Portfolio: https://panphyusin.vercel.app
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel" height="18" />
+  https://panphyusin.vercel.app
+</p>
 
-💻 GitHub: https://github.com/PanPhyuSin27
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github" height="18" />
+  https://github.com/PanPhyuSin27
+</p>
 
-University of Computer Studies, Yangon
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="18" />
+  https://www.linkedin.com/in/YOUR-LINKEDIN
+</p>
 
-Yangon, Myanmar •  
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/50/graduation-cap.png" height="18" />
+  University of Computer Studies, Yangon
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/50/marker.png" height="18" />
+  Yangon, Myanmar
+</p> 
   
 
 ---
