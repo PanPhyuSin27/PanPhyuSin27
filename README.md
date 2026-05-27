@@ -15,7 +15,7 @@ Learning → Building → Improving
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linkedin" height="18" />
-  https://www.linkedin.com/in/YOUR-LINKEDIN
+  https://www.linkedin.com/in/panphyusin2001
 </p>
 
 <p align="left">
