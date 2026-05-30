@@ -9,6 +9,11 @@ Learning → Building → Improving
 </p>
 
 <p align="left">
+  <img src="https://img.icons8.com/ios-filled/50/new-post.png" height="18" />
+  <a href="mailto:pannps2001@gmail.com">pannps2001@gmail.com</a>
+</p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=github" height="18" />
   https://github.com/PanPhyuSin27
 </p>
