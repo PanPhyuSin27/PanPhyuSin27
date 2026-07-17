@@ -3,36 +3,9 @@
 
 Learning → Building → Improving
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel" height="18" />
-  https://panphyusin.vercel.app
-</p>
-
-<p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/new-post.png" height="18" />
-  <a href="mailto:pannps2001@gmail.com">pannps2001@gmail.com</a>
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="18" />
-  https://github.com/PanPhyuSin27
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="18" />
-  https://www.linkedin.com/in/panphyusin2001
-</p>
-
-<p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/graduation-cap.png" height="18" />
-  University of Computer Studies, Yangon
-</p>
-
-<p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/marker.png" height="18" />
-  Yangon, Myanmar
-</p> 
+[Portfolio](https://panphyusin.vercel.app) · [LinkedIn](https://www.linkedin.com/in/panphyusin2001/) · [Email](mailto:pannps2001@gmail.com)
   
+📍 Yangon, Myanmar · 🎓 University of Computer Studies, Yangon
 
 ---
 
